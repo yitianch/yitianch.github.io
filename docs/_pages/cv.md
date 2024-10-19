@@ -4,5 +4,5 @@ title: "CV"
 permalink: /_pages/cv/
 ---
 
-## about
-about page for testing purposes
+## CV
+This will be added soon. 

@@ -4,5 +4,5 @@ title: "Publications"
 permalink: /_pages/publications/
 ---
 
-## about
-about page for testing purposes
+## Publications
+This will be added soon. 

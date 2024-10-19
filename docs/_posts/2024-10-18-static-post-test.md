@@ -1,2 +1,2 @@
-## about
-about page for testing purposes
+## a test post
+for testing purposes

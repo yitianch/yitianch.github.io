@@ -1,0 +1,62 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+.research-interests {
+    margin-bottom: 2rem;
+  }
+  
+  .interests-container {
+    display: flex;
+    justify-content: space-around; /* 调整对齐方式 */
+    gap: 20px;
+  }
+  
+  .research-interests {
+    margin-bottom: 2rem;
+  }
+  
+  .interests-container {
+    display: flex;
+    justify-content: center; /* 居中对齐 */
+    gap: 40px; /* 调整项目之间的间距 */
+  }
+  
+  .interest-item {
+    width: 60%; /* 每个项目占60%宽度 */
+    max-width: 800px; /* 限制最大宽度 */
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* 提升阴影效果 */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .interest-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  @media (max-width: 1024px) {
+    .interest-item {
+      width: 80%; /* 平板设备上每个项目占80%宽度 */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .interest-item {
+      width: 100%; /* 移动设备上每个项目占满宽度 */
+    }
+  }
+  
+
+  

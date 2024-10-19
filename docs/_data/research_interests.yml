@@ -1,0 +1,11 @@
+- title: "Aleutian Volcanology"
+  image: "/assets/images/tanaga-swarm.jpg"
+  description: "Exploring magma storage and mitigation of hazards. Utilizing geophyical and geochemical models to understand magmatic processes"
+
+- title: "Geodetic analysis and modeling"
+  image: "/assets/images/ush-earthquake.jpg"
+  description: "Resolving and interpreting deformation signals observed by InSAR and GNSS with analytical and numerical models"
+
+# - title: "Large-scale Tectonics"
+#   image: "/assets/images/tectonics.jpg"
+#   description: "Tracking the interactions and movements of Earth's tectonic plates with geodesy to understand their impact on global geological processes and structures."
